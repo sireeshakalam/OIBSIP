@@ -1,0 +1,103 @@
+.left-bg-container{
+    background-color: blue;
+    width: 20vw;
+    background-size: cover;
+    padding: 30px;
+}
+
+.bottom-card{
+    padding: 5px;
+}
+.image{
+    height: 200px;
+    width: 200px;
+    border-width: 0px;
+    border-radius: 100px;
+}
+.name{
+    font-size: 15px;
+    font-family: "Beer Serif";
+    font-weight: bold;
+    color: #ffffff;
+}
+.skills{
+    font-size: 13px;
+    font-family: "Beer Serif";
+    color: #ffffff;
+}
+.middle-container{
+    margin-top: 20px;
+}
+.image1{
+    height: 20px;
+    width: 20px;
+    border-radius: 40px;
+}
+.email{
+    font-size: 10px;
+    font-family: "Beer Serif";
+    
+    color: #ffffff;
+}
+.bottom-heading{
+    font-size: 13px;
+    font-family: "Beer Serif";
+    color: #ffffff;
+}
+.un-order{
+    list-style-type: disc;
+    color: #ffffff;
+    font-size: 12px;
+    font-family: "Beer Serif";
+}
+.right-container{
+    padding: 20px;
+    color: #ffffff;
+}
+.top-heading{
+    background-color: aliceblue;
+    height: 60px;
+    padding: 10px;
+}
+.heading{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Beer Serif";
+    color: black;
+}
+.top-card{
+    padding: 30px;
+    margin-left: 60px;
+
+}
+.top-pera{
+    font-size: 17px;
+    font-family: "Roboto";
+    color: black;
+}
+.education-card{
+    height: 60px;
+    margin-top: 30px;
+    
+}
+.image2{
+    height: 30px;
+    width: 40px;
+}
+.education-left-card{
+    padding: 10px;
+}
+.heading2{
+    font-size: 17px;
+    font-weight: bold;
+    font-family: "Beer Serif";
+    color: black;
+}
+.certification-card{
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card-padding{
+    padding-top: 15px;
+}
